@@ -1,0 +1,3 @@
+pip list
+pip show numpy
+pip freeze > requirements.txt
